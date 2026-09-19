@@ -2,7 +2,7 @@
 
 A daily task ledger, built as a small, focused React app rather than a generic to-do list. Entries are logged like ledger lines — filed with a priority tab, marked closed with a stamp, and cleared from the docket when done.
 
-**Live demo:** _add your Vercel/Netlify link here after deploying_
+**Live demo:**https://docket-seven-rosy.vercel.app/
 
 ## Features
 
